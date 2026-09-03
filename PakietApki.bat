@@ -2,7 +2,6 @@
 chcp 65001 >nul
 echo Instalowanie...
 winget install "Google.Chrome"
-winget install "Proton.ProtonMail"
 winget install "Discord.Discord"
 winget install "dotPDN.PaintDotNet"
 winget install "GIMP.GIMP"
